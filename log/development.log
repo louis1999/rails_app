@@ -1,0 +1,24 @@
+Started GET "/" for ::1 at 2020-12-26 22:16:15 +0100
+  [1m[35m (50.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/LouisDaisomont/.rvm/gems/ruby-2.6.6/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/LouisDaisomont/.rvm/gems/ruby-2.6.6/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 14.4ms | Allocations: 513)
+Completed 200 OK in 56ms (Views: 25.6ms | ActiveRecord: 0.0ms | Allocations: 4347)
+
+
+Started GET "/" for ::1 at 2020-12-27 12:06:40 +0100
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/LouisDaisomont/.rvm/gems/ruby-2.6.6/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/LouisDaisomont/.rvm/gems/ruby-2.6.6/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 13.1ms | Allocations: 348)
+Completed 200 OK in 40ms (Views: 17.3ms | ActiveRecord: 0.0ms | Allocations: 2668)
+
+
+Started GET "/" for ::1 at 2020-12-27 12:30:02 +0100
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/LouisDaisomont/.rvm/gems/ruby-2.6.6/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/LouisDaisomont/.rvm/gems/ruby-2.6.6/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 12.6ms | Allocations: 348)
+Completed 200 OK in 43ms (Views: 18.2ms | ActiveRecord: 0.0ms | Allocations: 2648)
+
+
