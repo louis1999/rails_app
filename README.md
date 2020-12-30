@@ -1,5 +1,9 @@
 # README
 
+run the project :
+terminal 1 : rails s
+terminal 2 : bundle exec guard // it's for file reload.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -22,3 +26,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+

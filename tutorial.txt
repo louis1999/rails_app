@@ -1,0 +1,28 @@
+MVC pattern : 
+
+terminal : rails g controller name(s)
+    and that creates 
+      create  app/controllers/names_controller.rb
+      invoke  erb
+      create    app/views/names
+      invoke  test_unit
+      create    test/controllers/names_controller_test.rb
+      invoke  helper
+      create    app/helpers/names_helper.rb
+      invoke    test_unit
+      invoke  assets
+      invoke    scss
+      create      app/assets/stylesheets/names.scss
+
+terminal : rails g model Post title:string content:text // pour creer des tables dans la database
+
+terminal : rails db:migrate    // pour synchro les model avec la db
+
+
+terminal : rake routes // pour voir toutes les routes
+
+
+Create something
+  go in the controller
+  create a view in the corresponding directory (.html.erb)
+  go in config, routes and create the route
